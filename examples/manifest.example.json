@@ -1,0 +1,19 @@
+{
+  "profile_url": "https://www.pexels.com/@example/",
+  "generated_at": "2026-03-12T20:00:00.000Z",
+  "count": 2,
+  "items": [
+    {
+      "id": "123456",
+      "kind": "photo",
+      "page_url": "https://www.pexels.com/photo/example-photo-123456/",
+      "download_url": "https://images.pexels.com/photos/123456/example.jpeg"
+    },
+    {
+      "id": "654321",
+      "kind": "video",
+      "page_url": "https://www.pexels.com/video/example-video-654321/",
+      "download_url": "https://videos.pexels.com/video-files/654321/example.mp4"
+    }
+  ]
+}
