@@ -30,10 +30,12 @@ It is not meant to be a generic web scraping framework. It is meant to stay focu
 
 This project is a good fit for:
 
-- DevOps engineers who want a reliable, repeatable asset collection workflow
-- Linux administrators who prefer terminal-based downloading after a browser step
+- designers who want to collect Pexels gallery assets for inspiration or project use
+- developers who want a repeatable way to download large public Pexels galleries
+- content creators who prefer saving a full creator gallery instead of downloading files one by one
+- Linux users who want a terminal-based downloader after a browser step
 - Windows users who want a PowerShell-based downloader
-- users who need to resume large downloads without starting over
+- anyone who needs to resume large downloads without starting over
 
 This project is probably not enough by itself if you need:
 
