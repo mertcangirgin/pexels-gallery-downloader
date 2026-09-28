@@ -127,7 +127,7 @@ Then:
 2. Open `Sources`
 3. In the left sidebar, open `Snippets`
 4. Create a new snippet
-5. Paste the contents of [browser/pexels_manifest_export.js](/home/mert/projects/pexels-gallery-downloader/browser/pexels_manifest_export.js)
+5. Paste the contents of [browser/pexels_manifest_export.js](/home/mert/projects/tools/pexels-gallery-downloader/browser/pexels_manifest_export.js)
 6. Run it with `Ctrl+Enter`
 7. Wait for all scan and resolve messages to finish
 
@@ -292,7 +292,7 @@ Each manifest item should contain:
 - `page_url`
 - `download_url`
 
-See [examples/manifest.example.json](/home/mert/projects/pexels-gallery-downloader/examples/manifest.example.json).
+See [examples/manifest.example.json](/home/mert/projects/tools/pexels-gallery-downloader/examples/manifest.example.json).
 
 ## Behavior and safeguards
 
